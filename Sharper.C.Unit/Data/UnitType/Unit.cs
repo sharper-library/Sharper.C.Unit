@@ -1,8 +1,7 @@
 using System;
 
-namespace Sharper.C.Data
+namespace Sharper.C.Data.UnitType
 {
-
     public sealed class Unit
     {
         private Unit()
