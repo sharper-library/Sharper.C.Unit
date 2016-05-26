@@ -1,6 +1,6 @@
 $TestsRegex = '\.Tests$'
 
-$dotnetCliUrl = 'https://dotnetcli.blob.core.windows.net/dotnet/preview/Binaries/Latest/dotnet-dev-win-x64.latest.zip'
+$dotnetCliUrl = 'https://go.microsoft.com/fwlink/?LinkID=798402'
 
 if (Test-Path '.dotnet-cli/dotnet.exe') {
     $dotnet = '.dotnet-cli/dotnet.exe'
